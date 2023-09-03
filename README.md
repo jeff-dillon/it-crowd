@@ -14,9 +14,10 @@ in VSCode.
 1. Install the SQLTools extension.
 1. Install the SQLTools SQLite driver
 1. Connect to the contacts.db database
-1. Type your query in the contacts database.session.sql file
+1. Run the queries in the `sample-queries.sql` file. 
+1. Explore the datbase by adding new queries.
 1. Execute the query by clicking "run on active connection"
-1. If you need to refresh the database you can run the create_db.py script. 
+1. If you need to refresh the database you can run the `create_db.py` script. 
 This will delete and then re-create the database file.
 
 ### Extension Details
